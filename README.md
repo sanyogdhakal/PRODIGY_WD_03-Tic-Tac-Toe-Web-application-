@@ -1,1 +1,2 @@
 # PRODIGY_WD_03-Tic-Tac-Toe-Web-application-
+To create a Tic-Tac-Toe web application, use HTML, CSS, and JavaScript. Implement functions to handle user clicks, track game state, check for winning conditions, and offer features like resetting the game and starting a new game. Users can play against each other or an AI opponent, aiming to get three markers in a row to win. These technologies and features ensure an interactive and engaging gaming experience.
